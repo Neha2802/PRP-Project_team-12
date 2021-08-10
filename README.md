@@ -9,3 +9,4 @@
 ## Baseyian approach
 -> In this we again do repeat the first step as above. Then we predict x using the function x_prediction.m
 -> In x_prediction.m function we are first computing posterior parameters and then we calculate intermediate parameters and then we are predicting x from posterior    parameters and intermediate parameters.
+-> And finally we plot pdf's of original and Predicted and MAP model.
